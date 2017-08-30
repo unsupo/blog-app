@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-v=`pwd`;
+v=`pwd`/..;
 st=$v/src/main/resources/static;
 ap=$v/blogapp;
 
