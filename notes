@@ -1,0 +1,31 @@
+Blog about making a blog.
+This first article is about how i got this blog up and going.  The steps i used to make the website from scratch
+and set up a home server to put it on the internet.
+I will use this blog for future posts on other how to's or things I learn.  This blog will hopefully be as helpful
+to me as it is for anyone else reading it.
+
+All code used to make this blog will be at my github account: https://github.com/unsupo
+
+First step is the make the website for the blog itself.  I could make it extremely simple, but as explained above
+this is as much for me as it is for you.  So, i'll use new technologies to make it and incorporate any ideas
+I can think of.
+
+I'd like the blog to be edited by me in the browser so i can do it anywhere without the need to open the code
+and commit changes, but all changes should be stored and saved preferably in my github account so any versioning
+can be tracked.
+
+Since many things in programming are on repeat, I'd like repeated processes to either have their own page with
+a link in the current project or an accordion style way to open it in the current project.
+
+The blog should be subdivided into languages then into projects.  So java, python, javascript, ect will all have
+their own "folders".  Some will be in multiple folders due to some projects needed more than one language.  I'll
+use metadata associated to each blog entry to assign it to folders automatically.  Once again all this should
+be done from the browser so i don't needed to edit any code once completed.
+
+A phone app would be helpful to me, but not exactly necessary.
+
+ionic 2 works perfectly for the web, phone, and PWA or native desktop apps, so that will be the technology of
+choice for the front end of the blog application.
+
+I'd like a login, but by default everything is view only.  If you log you have access to create, edit, and
+delete your blogs or blog entries.
